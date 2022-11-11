@@ -6,3 +6,7 @@ Can be used to import points from image to software like AutoCAD Civil which lat
 
 Before:
 ![alt Before](https://github.com/Sujay-Mhaske/Raster-to-Vector-conversion/blob/main/2.jpg?raw=true)
+
+
+After:
+![alt After]([https://github.com/Sujay-Mhaske/Raster-to-Vector-conversion/blob/main/2.jpg](https://github.com/Sujay-Mhaske/Raster-to-Vector-conversion/blob/main/download.png)?raw=true)
